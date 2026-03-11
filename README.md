@@ -69,7 +69,7 @@ npm run dev
 
 Open the app (e.g. http://localhost:5173). Use **Outbound call**: enter a phone number (E.164, e.g. +91…) and click to call. The dashboard shows the live transcript and whether the agent is answering in-scope or deflecting.
 
-### 5. (Optional) Run the LiveKit voice agent worker
+### 5. Run the LiveKit voice agent worker
 
 You need a LiveKit server and a **Piper TTS** server (the worker uses Piper for speech; no API key).
 
